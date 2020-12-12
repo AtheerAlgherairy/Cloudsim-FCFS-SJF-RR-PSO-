@@ -15,7 +15,7 @@ A Comparative Study between Heuristic Task Scheduling and Optimization-Based Alg
 
 #----------- Settings:
 
-# of VMs: 20 , Homogeneous VMs
+Number of VMs: 20 , Homogeneous VMs
 Timesharing policy is used for both host-level and task-level
 
 PSO population size= 25 Particles
