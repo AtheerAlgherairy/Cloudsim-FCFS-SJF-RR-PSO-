@@ -20,7 +20,8 @@
 <li> Timesharing policy is used for both host-level and task-level </li>
 
 <li> PSO population size= 25 Particles </li>
-<li> PSO iterations: 500 </li>
+<li> PSO iterations: 500 </li> 
+  You can find more in PSO folder, PSO.jar file.
 <li> PSO objective: minimize(makespan) </li>
 
 </ul>
